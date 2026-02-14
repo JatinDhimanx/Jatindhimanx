@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Jatin
 
 ### 🚀 B.Tech CSE Student & Aspiring Full Stack Developer
 I love building scalable web applications and solving complex problems through code. Currently focused on mastering the **MERN Stack** and improving my **JavaScript OOP** skills.
@@ -15,21 +15,19 @@ I love building scalable web applications and solving complex problems through c
 ---
 
 ### 🌟 Featured Projects
-- **[SARMS](your-link-here)**: A Smart College Examination & Room Management System. Built with the MERN stack to automate faculty dashboards and sitting plans.
-- **[Bug2Build Projects](your-link-here)**: Contributing to community-driven tech solutions and UI/UX improvements.
-- **[Personal Portfolio](your-link-here)**: My digital space showcasing my journey and web design skills.
+- **[Bug2Build Projects](https://bug2build.in/)**: Contributing to community-driven tech solutions and UI/UX improvements.
+- **[SARMS]**: A Smart College Examination & Room Management System. Built with the MERN stack to automate faculty dashboards and sitting plans.
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatindhimanx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhimanx&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Portfolio:** [Your Portfolio Link]
+- **LinkedIn:** [www.linkedin.com/in/jatindiman]
 
 ---
 *"Turning bugs into builds, one commit at a time."* 💻
