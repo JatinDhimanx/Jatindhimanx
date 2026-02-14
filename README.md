@@ -25,6 +25,12 @@ I love building scalable web applications and solving complex problems through c
 ![Jatin's Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatindhimanx&theme=radical)
 ![Metrics](https://metrics.lecoq.io/jatindhimanx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata)
 
+### 🛠️ My Tech Toolbox
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ---
 
 ### 📫 Let's Connect!
