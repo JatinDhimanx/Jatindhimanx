@@ -15,8 +15,8 @@ I love building scalable web applications and solving complex problems through c
 ---
 
 ### 🌟 Featured Projects
-- **[SARMS](https://github.com/jatindhimanx/SARMS)**: Smart College Examination & Room Management System. (MERN Stack)
-- **[Bug2Build Projects](https://github.com/jatindhimanx)**: Contributing to tech community projects and UI/UX.
+- **[Bug2Build Projects](https://bug2build.in)**: Contributing to tech community projects and UI/UX.
+- **[SARMS]**: Smart College Examination & Room Management System. (MERN Stack)
 
 ---
 
