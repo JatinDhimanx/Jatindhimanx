@@ -21,9 +21,8 @@ I love building scalable web applications and solving complex problems through c
 ---
 
 ### 📊 My GitHub Stats
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatindhimanx&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhimanx&layout=compact&theme=radical)
+![Jatin's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatindhimanx&theme=radical)
+![Jatin's Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatindhimanx&theme=radical)
 
 ---
 
