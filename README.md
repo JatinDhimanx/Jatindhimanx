@@ -26,11 +26,12 @@ I am a **B.Tech CSE student** and a dedicated **Full Stack Developer**. I specia
 
 ### 📊 Coding Metrics (JavaScript Focused)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhimanx&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatindhimanx&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatindhimanx&theme=tokyonight" alt="Jatin's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatindhimanx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Jatin's Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatindhimanx&theme=tokyonight" width="100%" alt="Activity Graph" />
 </p>
 
 ---
