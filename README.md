@@ -1,40 +1,48 @@
-# Hi there! 👋 I'm Jatin Dhiman
+# 👨‍💻 Jatin Dhiman | Full Stack Developer
 
-### 🚀 B.Tech CSE Student & Aspiring Full Stack Developer
-I love building scalable web applications and solving complex problems through code. Currently focused on mastering the **MERN Stack** and building management systems.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jatindhimanx&label=Profile%20Views&color=0e75b6&style=flat-square" alt="jatindhimanx" />
+</p>
 
----
+### 🚀 About Me
+I am a **B.Tech CSE student** and a dedicated **Full Stack Developer**. I specialize in building logic-driven applications with a focus on **JavaScript Architecture** and **MERN Stack**.
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), C, HTML5, CSS3
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git & GitHub
-
----
-
-### 🌟 Featured Projects
-- **[Bug2Build Projects](https://bug2build.in)**: Contributing to tech community projects and UI/UX.
-- **[SARMS]**: Smart College Examination & Room Management System. (MERN Stack)
+- 🛠️ **Current Star Project:** [SARMS] (Smart Room Management System)
+- 🤝 **Community:** Active contributor at **Bug2Build**
+- ⚡ **Focus:** High-performance Backend & Clean UI/UX
 
 ---
 
-### 📊 My GitHub Stats
-![Jatin's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatindhimanx&theme=radical)
-![Jatin's Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatindhimanx&theme=radical)
-![Metrics](https://metrics.lecoq.io/jatindhimanx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata)
-
-### 🛠️ My Tech Toolbox
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🛠️ Tech Stack & Skills
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Primary Language** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| **Others** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [www.linkedin.com/in/jatindiman]
+### 📊 Coding Metrics (JavaScript Focused)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhimanx&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatindhimanx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Jatin's Stats" />
+</p>
 
 ---
-*"Turning bugs into builds, one commit at a time."* 💻
+
+### 🌟 Top Repositories
+- **[Bug2Build Projects](https://bug2build.in)**: ERP and community-led development.
+-  **[SARMS]**: An automated management system for college exams.
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jatindhiman)
+
+---
+*"Building the future, one JavaScript file at a time."*
