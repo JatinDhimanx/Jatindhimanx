@@ -28,7 +28,7 @@ I love building scalable web applications and solving complex problems through c
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/jatindiman)
+- **LinkedIn:** [www.linkedin.com/in/jatindiman]
 
 ---
 *"Turning bugs into builds, one commit at a time."* 💻
