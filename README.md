@@ -23,6 +23,7 @@ I love building scalable web applications and solving complex problems through c
 ### 📊 My GitHub Stats
 ![Jatin's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatindhimanx&theme=radical)
 ![Jatin's Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatindhimanx&theme=radical)
+![Metrics](https://metrics.lecoq.io/jatindhimanx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata)
 
 ---
 
