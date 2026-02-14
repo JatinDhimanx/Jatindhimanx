@@ -7,7 +7,7 @@
 ### 🚀 About Me
 I am a **B.Tech CSE student** and a dedicated **Full Stack Developer**. I specialize in building logic-driven applications with a focus on **JavaScript Architecture** and **MERN Stack**.
 
-- 🛠️ **Current Star Project:** [SARMS] (Smart Room Management System)
+- 🛠️ **Current Star Project:** [SARMS] (Smart Academic & Room Management System)
 - 🤝 **Community:** Active contributor at **Bug2Build**
 - ⚡ **Focus:** High-performance Backend & Clean UI/UX
 
