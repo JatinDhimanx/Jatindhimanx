@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Jatin
+# Hi there! 👋 I'm Jatin Dhiman
 
 ### 🚀 B.Tech CSE Student & Aspiring Full Stack Developer
-I love building scalable web applications and solving complex problems through code. Currently focused on mastering the **MERN Stack** and improving my **JavaScript OOP** skills.
+I love building scalable web applications and solving complex problems through code. Currently focused on mastering the **MERN Stack** and building management systems.
 
 ---
 
@@ -15,19 +15,20 @@ I love building scalable web applications and solving complex problems through c
 ---
 
 ### 🌟 Featured Projects
-- **[Bug2Build Projects](https://bug2build.in/)**: Contributing to community-driven tech solutions and UI/UX improvements.
-- **[SARMS]**: A Smart College Examination & Room Management System. Built with the MERN stack to automate faculty dashboards and sitting plans.
+- **[SARMS](https://github.com/jatindhimanx/SARMS)**: Smart College Examination & Room Management System. (MERN Stack)
+- **[Bug2Build Projects](https://github.com/jatindhimanx)**: Contributing to tech community projects and UI/UX.
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatindhimanx&show_icons=true&theme=radical)
+### 📊 My GitHub Stats
+![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatindhimanx&show_icons=true&theme=radical&rank_icon=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhimanx&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [www.linkedin.com/in/jatindiman]
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/jatindiman)
 
 ---
 *"Turning bugs into builds, one commit at a time."* 💻
