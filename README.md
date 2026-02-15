@@ -31,8 +31,8 @@ I am a **B.Tech CSE student** and a dedicated **Full Stack Developer**. I specia
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jatindhiman)
-[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" />](https://linkedin.com/in/jatindhiman)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jatindiman?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[📩 Contact Me](mailto:jatindhiman109@gmail.com)
 
 ---
 *"Building the future, one JavaScript file at a time."*
