@@ -24,18 +24,6 @@ I am a **B.Tech CSE student** and a dedicated **Full Stack Developer**. I specia
 
 ---
 
-### 📊 Coding Metrics (JavaScript Focused)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatindhimanx&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatindhimanx&theme=tokyonight" alt="Jatin's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatindhimanx&theme=tokyonight" width="100%" alt="Activity Graph" />
-</p>
-
----
-
 ### 🌟 Top Repositories
 - **[Bug2Build Projects](https://bug2build.in)**: ERP and community-led development.
 -  **[SARMS]**: An automated management system for college exams.
