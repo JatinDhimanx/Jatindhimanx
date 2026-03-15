@@ -20,8 +20,7 @@ I am a **B.Tech CSE student** and a dedicated **Full Stack Developer**. I specia
 | **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
 | **Others** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
-|
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
 
 ---
 
