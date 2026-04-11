@@ -48,9 +48,8 @@ I focus on quality over quantity. Here are some of the major projects I've built
 ### 📊 Tech Focus
 *A breakdown of the languages I write the most across my public repositories.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhimanx&layout=compact&theme=radical&hide_border=true&title_color=0E75B6" alt="Top Languages" width="60%"/>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatindhimanx&layout=compact&theme=radical&hide_border=true)](https://github.com/jatindhimanx)
+
 ---
 
 ### 📫 Reach Out
